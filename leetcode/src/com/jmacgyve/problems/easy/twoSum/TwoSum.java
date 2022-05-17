@@ -1,13 +1,9 @@
 package com.jmacgyve.problems.easy.twoSum;
 
-import java.util.Arrays;
 import java.util.HashMap;
 import java.util.stream.IntStream;
 
 public class TwoSum {
-    public TwoSum() {
-    }
-
     /**
      * Given an array of integers 'nums' and an integer 'target', return indices of the two numbers such that they add up to 'target'.
      * You may assume that each input would have exactly one solution, and you may not use the same element twice.
