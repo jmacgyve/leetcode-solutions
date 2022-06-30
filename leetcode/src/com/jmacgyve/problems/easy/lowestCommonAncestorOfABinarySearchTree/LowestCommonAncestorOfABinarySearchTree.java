@@ -1,4 +1,4 @@
-package com.jmacgyve.problems.easy.LowestCommonAncestorOfABinarySearchTree;
+package com.jmacgyve.problems.easy.lowestCommonAncestorOfABinarySearchTree;
 
 public class LowestCommonAncestorOfABinarySearchTree {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
